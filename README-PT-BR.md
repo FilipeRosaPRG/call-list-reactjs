@@ -1,5 +1,5 @@
 
-# List de chamada
+# Lista de chamada
 
 Uma aplicação simulando uma lista de chamada. O projeto foi feito durante um dos cursos da [Rocketseat](https://www.rocketseat.com.br/).
 O objetivo do curso é ensinar os fundamentos do ReactJS, foi explicado sobre toda a estrutura do projeto mostrando componentização, organização de pastas, propriedades, estado, uso de API, Hooks e muito mais!
